@@ -1,13 +1,13 @@
 # Alvin Kouadio
 
-Data Analyst / Chef de projet digital en formation — à la croisée du marketing, de la data et de l'IA (M2 INSEEC). Paris, France.
+Data Analyst / Chef de projet digital en formation — à la croisée du marketing, de la data et de l'IA (INSEEC PGE). Paris, France.
 
 Je transforme des données en histoires claires : nettoyage, analyse, visualisation et automatisation, avec Python et Power BI comme outils principaux.
 
 ## Compétences
 
 - **Data & BI** : Power BI, Power Query, Excel, SQL, KPI, data visualisation
-- **Programmation** : Python, Pandas, NumPy, automatisation
+- **Programmation** : Python, Pandas, NumPy, automatisation, n8n
 - **IA & Digital** : agents IA, IA générative, CRM
 - **Analyse quantitative** : statistiques, économétrie, régression
 
@@ -26,4 +26,4 @@ Je transforme des données en histoires claires : nettoyage, analyse, visualisat
 ## Me contacter
 
 - LinkedIn : [alvin-kouadio](https://www.linkedin.com/in/alvin-kouadio-4757281ba)
-- Email : alvinkouadio01@gmail.com
+- Email : alvinkouadio1@icloud.com
