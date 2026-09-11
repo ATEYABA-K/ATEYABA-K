@@ -1,6 +1,6 @@
 # Alvin Kouadio
 
-Étudiant en Marketing Digital, Data & IA (INSEEC) — Paris, France
+Data Analyst / Chef de projet digital en formation — à la croisée du marketing, de la data et de l'IA (M2 INSEEC). Paris, France.
 
 Je transforme des données en histoires claires : nettoyage, analyse, visualisation et automatisation, avec Python et Power BI comme outils principaux.
 
