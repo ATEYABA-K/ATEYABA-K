@@ -25,5 +25,5 @@ Je transforme des données en histoires claires : nettoyage, analyse, visualisat
 
 ## Me contacter
 
-- LinkedIn : [alvin-kouadio](https://www.linkedin.com/in/alvin-kouadio-4757281ba)
+- LinkedIn : [alvin kouadio](https://www.linkedin.com/in/alvin-kouadio-4757281ba)
 - Email : alvinkouadio1@icloud.com
