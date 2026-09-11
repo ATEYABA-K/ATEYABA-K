@@ -1,6 +1,6 @@
 # Alvin Kouadio
 
-Étudiant en M2 Marketing Digital, Data & IA (INSEEC) — Nanterre, France
+Étudiant en Marketing Digital, Data & IA (INSEEC) — Paris, France
 
 Je transforme des données en histoires claires : nettoyage, analyse, visualisation et automatisation, avec Python et Power BI comme outils principaux.
 
@@ -26,4 +26,4 @@ Je transforme des données en histoires claires : nettoyage, analyse, visualisat
 ## Me contacter
 
 - LinkedIn : [alvin-kouadio](https://www.linkedin.com/in/alvin-kouadio-4757281ba)
-- Email : alvinkouadio1@icloud.com
+- Email : alvinkouadio01@gmail.com
