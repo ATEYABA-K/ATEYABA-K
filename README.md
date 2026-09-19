@@ -1,8 +1,7 @@
 # Alvin Kouadio
 
-Je pilote des projets data de bout en bout — cadrage avec le métier, exécution technique, automatisation — plutôt que de rester cantonné à une seule étape. Basé à Paris.
+Étudiant en Master Marketing Digital, spécialisation Big Data & IA (INSEEC PGE), je me forme à la data à côté des cours — Python, SQL, Power BI. Je cherche une alternance de 12 mois comme Chargé de Projet Data / Data Analyst.
 
-![Gestion de projet](https://img.shields.io/badge/Gestion%20de%20projet-4B0082?style=flat)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -10,19 +9,18 @@ Je pilote des projets data de bout en bout — cadrage avec le métier, exécuti
 
 ## Projets
 
-Les 4 ci-dessous suivent volontairement le même fil : cadrer un projet data avant d'y toucher, l'exécuter, puis penser à ce qui se passe une fois livré (automatisation, dérive du modèle) — le cycle complet, pas juste la partie technique.
+Deux projets où j'ai essayé de suivre une vraie démarche, du besoin jusqu'au résultat, pas juste un script qui tourne.
 
-- **[Note de cadrage — scoring de risque d'attrition](https://github.com/ATEYABA-K/note-cadrage-scoring-ia-pme)** — objectifs, périmètre, parties prenantes, risques : le document qui précède le code, pas après
-- **[Adoption de l'IA par les PME françaises](https://github.com/ATEYABA-K/adoption-ia-pme-france)** — analyse Insee, l'écart d'adoption IA entre grandes entreprises et PME s'est creusé plutôt que comblé (2023-2025)
-- **[Automatisation d'un pipeline de reporting](https://github.com/ATEYABA-K/automatisation-reporting-insee)** — le même projet, mais pensé pour tourner sans moi (GitHub Actions)
-- **[Scoring de propension B2B](https://github.com/ATEYABA-K/scoring-prospects-b2b)** — modèle de priorisation commerciale, lift ×4,7 sur le décile supérieur, avec les limites du modèle assumées
+- **[Adoption de l'IA par les PME françaises](https://github.com/ATEYABA-K/adoption-ia-pme-france)** — à partir des chiffres Insee, je regarde si les PME rattrapent leur retard sur l'IA. L'écart avec les grandes entreprises a presque triplé en deux ans (16 à 43 points, 2023-2025).
+- **[Scoring de propension B2B](https://github.com/ATEYABA-K/scoring-prospects-b2b)** — un modèle pour prioriser les prospects à recontacter en premier, sur un jeu de données public faute d'avoir accès à de vraies données commerciales. J'y explique aussi une erreur que j'ai repérée et corrigée en cours de route.
+
+D'autres projets sont en cours, je les publie une fois qu'ils sont dans un état que je peux présenter.
 
 ## Compétences
 
-- **Gestion de projet** : cadrage, priorisation, gestion des risques, coordination business/technique
-- **Data & BI** : Python (pandas), SQL, Power BI, Power Query, Excel
-- **Machine learning** : scikit-learn, scoring/classification, évaluation de modèles
-- **Automatisation** : pipelines de données, n8n, GitHub Actions
+- **Confirmé** : Power BI (certifié PL-300), Excel (certifié TOSA)
+- **Intermédiaire** : Python (pandas), SQL
+- **Notions, en progression** : Machine Learning (scikit-learn), automatisation (n8n, GitHub Actions)
 
 ## Certifications
 
@@ -32,5 +30,7 @@ Les 4 ci-dessous suivent volontairement le même fil : cadrer un projet data ava
 
 ## Me contacter
 
-- LinkedIn : [alvin kouadio](https://www.linkedin.com/in/alvin-kouadio-4757281ba)
+- LinkedIn : [Alvin Kouadio](https://www.linkedin.com/in/alvin-kouadio-4757281ba)
 - Email : alvinkouadio1@icloud.com
+
+Ouvert à toute alternance Data / Gestion de projet digital, disponible dès maintenant.
