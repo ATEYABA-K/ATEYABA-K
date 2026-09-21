@@ -1,6 +1,6 @@
 # Alvin Kouadio
 
-Étudiant en Master Marketing Digital, spécialisation Big Data & IA (INSEEC PGE), je me forme à la data à côté des cours — Python, SQL, Power BI. Je cherche une alternance de 12 mois comme Chargé de Projet Data / Data Analyst.
+Étudiant en Master Marketing Digital, spécialisation Big Data & IA (INSEEC PGE), je me forme à la data à côté des cours — Python, SQL, Power BI. Ouvert à l'emploi.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
